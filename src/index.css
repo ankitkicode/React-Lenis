@@ -1,0 +1,12 @@
+/* Add this to your global stylesheet or a CSS module */
+.grid > div {
+    grid-row: var(--r);
+    grid-column: var(--c);
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* This ensures the image covers the div area without distortion */
+  }
+  
