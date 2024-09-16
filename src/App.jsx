@@ -69,97 +69,97 @@ const App = () => {
     <div className="bg-zinc-900 w-full  ">
       <div className="grid grid-cols-15 grid-rows-20 gap-2 overflow-hidden">
         <div className="elem col-span-1 row-span-1" style={{ "--r": 0, "--c": 1 }}>
-          <img src="public/img/background-image-0.jpg" alt="img0" />
+          <img src="/img/background-image-0.jpg" alt="img0" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 1, "--c":3 }}>
-          <img src="public/img/background-image-1.jpg" alt="img1" />
+          <img src="/img/background-image-1.jpg" alt="img1" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 2, "--c": 3 }}>
-          <img src="public/img/background-image-2.jpg" alt="img2" />
+          <img src="/img/background-image-2.jpg" alt="img2" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 2, "--c": 8 }}>
-          <img src="public/img/background-image-3.jpg" alt="img3" />
+          <img src="/img/background-image-3.jpg" alt="img3" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 3, "--c": 2 }}>
-          <img src="public/img/background-image-4.jpg" alt="img4" />
+          <img src="/img/background-image-4.jpg" alt="img4" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 3, "--c": 6 }}>
-          <img src="public/img/background-image-5.jpg" alt="img5" />
+          <img src="/img/background-image-5.jpg" alt="img5" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 4, "--c": 3 }}>
-          <img src="public/img/background-image-6.jpg" alt="img6" />
+          <img src="/img/background-image-6.jpg" alt="img6" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 4, "--c": 8 }}>
-          <img src="public/img/background-image-7.jpg" alt="img7" />
+          <img src="/img/background-image-7.jpg" alt="img7" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 5, "--c": 4 }}>
-          <img src="public/img/background-image-8.jpg" alt="img8" />
+          <img src="/img/background-image-8.jpg" alt="img8" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 5, "--c": 2 }}>
-          <img src="public/img/background-image-9.jpg" alt="img9" />
+          <img src="/img/background-image-9.jpg" alt="img9" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 6, "--c": 6 }}>
-          <img src="public/img/background-image-10.jpg" alt="img10" />
+          <img src="/img/background-image-10.jpg" alt="img10" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 6, "--c": 3 }}>
-          <img src="public/img/background-image-11.jpg" alt="img11" />
+          <img src="/img/background-image-11.jpg" alt="img11" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 7, "--c": 7 }}>
-          <img src="public/img/background-image-12.jpg" alt="img12" />
+          <img src="/img/background-image-12.jpg" alt="img12" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 7, "--c": 5 }}>
-          <img src="public/img/background-image-13.jpg" alt="img13" />
+          <img src="/img/background-image-13.jpg" alt="img13" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 8, "--c": 8 }}>
-          <img src="public/img/background-image-14.jpg" alt="img14" />
+          <img src="/img/background-image-14.jpg" alt="img14" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 8, "--c": 1 }}>
-          <img src="public/img/background-image-15.jpg" alt="img15" />
+          <img src="/img/background-image-15.jpg" alt="img15" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 9, "--c": 4 }}>
-          <img src="public/img/background-image-16.jpg" alt="img16" />
+          <img src="/img/background-image-16.jpg" alt="img16" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 9, "--c": 2 }}>
-          <img src="public/img/background-image-17.jpg" alt="img17" />
+          <img src="/img/background-image-17.jpg" alt="img17" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 10, "--c": 6 }}>
-          <img src="public/img/background-image-18.jpg" alt="img18" />
+          <img src="/img/background-image-18.jpg" alt="img18" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 10, "--c": 3 }}>
-          <img src="public/img/background-image-19.jpg" alt="img19" />
+          <img src="/img/background-image-19.jpg" alt="img19" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 1, "--c": 7 }}>
-          <img src="public/img/background-image-20.jpg" alt="img20" />
+          <img src="/img/background-image-20.jpg" alt="img20" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 3, "--c": 4 }}>
-          <img src="public/img/background-image-21.jpg" alt="img21" />
+          <img src="/img/background-image-21.jpg" alt="img21" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 4, "--c": 1 }}>
-          <img src="public/img/background-image-22.jpg" alt="img22" />
+          <img src="/img/background-image-22.jpg" alt="img22" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 4, "--c": 5 }}>
-          <img src="public/img/background-image-23.jpg" alt="img23" />
+          <img src="/img/background-image-23.jpg" alt="img23" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 5, "--c": 7  }}>
-          <img src="public/img/background-image-24.jpg" alt="img24" />
+          <img src="/img/background-image-24.jpg" alt="img24" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 6, "--c": 5 }}>
-          <img src="public/img/background-image-25.jpg" alt="img25" />
+          <img src="/img/background-image-25.jpg" alt="img25" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 7, "--c": 2 }}>
-          <img src="public/img/background-image-26.jpg" alt="img26" />
+          <img src="/img/background-image-26.jpg" alt="img26" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 8, "--c": 3 }}>
-          <img src="public/img/background-image-27.jpg" alt="img27" />
+          <img src="/img/background-image-27.jpg" alt="img27" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 8, "--c": 6 }}>
-          <img src="public/img/background-image-28.jpg" alt="img28" />
+          <img src="/img/background-image-28.jpg" alt="img28" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 9, "--c": 5 }}>
-          <img src="public/img/background-image-29.jpg" alt="img29" />
+          <img src="/img/background-image-29.jpg" alt="img29" />
         </div>
         <div className="elem col-span-1 row-span-1" style={{ "--r": 10, "--c": 1 }}>
-          <img src="public/img/background-image-30.jpg" alt="img30" />
+          <img src="/img/background-image-30.jpg" alt="img30" />
         </div>
       </div>
       <div className="fixed top-0 left-0 w-full h-full flex items-center justify-center text-white">
